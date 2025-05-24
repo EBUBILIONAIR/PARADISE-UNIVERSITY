@@ -13,10 +13,10 @@ export default function AboutSection() {
         <div className="flex-1 flex flex-col justify-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-6 text-[#21135D]">Who We Are</h2>
           <p className="text-gray-700 mb-6 leading-relaxed text-base md:text-lg">
-            Welcome to Adeleke University, Ede, where we offer one of the most affordable but best quality education in Nigeria,
+            Welcome to Paradise University, where we offer one of the most affordable but best quality education in Nigeria,
             with unique features like, scholarship opportunities, flexibility in payment of fees, acquisition of entrepreneurial
             skills, high quality teaching, research and innovative learning. <br /><br />
-            AU’s vision makes it a breed apart and this it has vigorously pursued through infrastructural developments,
+            PU’s vision makes it a breed apart and this it has vigorously pursued through infrastructural developments,
             teaching, research, community development and international collaborations.
           </p>
          <Link

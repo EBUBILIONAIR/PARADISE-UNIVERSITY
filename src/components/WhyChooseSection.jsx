@@ -35,7 +35,7 @@ export default function WhyChooseSection() {
       <div className="relative z-10 py-16 px-4 sm:px-6 lg:px-16">
         <div className="max-w-7xl mx-auto text-center text-white">
           <h2 className="text-4xl font-bold mb-12">
-            Why Choose Adeleke University?
+            Why Choose Paradise University?
           </h2>
 
           <div className="grid gap-8 md:grid-cols-3">

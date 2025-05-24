@@ -31,7 +31,7 @@ export default function AcademicsSection() {
     <section className="bg-gray-100 py-20">
       {/* Heading */}
       <h1 className="text-3xl md:text-4xl font-bold text-center text-gray-800 mb-12">
-        Academics at Adeleke University
+        Academics at Paradise University
       </h1>
 
       {/* Card Grid */}
